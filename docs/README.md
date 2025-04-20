@@ -1,6 +1,6 @@
 # 📊 Enterprise Sales Dashboard
 
-![Overview](./screenshots/overview.png)
+![Overview](./screenshots/sales-summary.png)
 
 ## 🔍 Proje Özeti
 
